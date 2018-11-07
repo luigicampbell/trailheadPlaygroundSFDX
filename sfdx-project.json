@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://cunning-shark-aef2db-dev-ed.my.salesforce.com/",
+  "sourceApiVersion": "43.0"
+}
