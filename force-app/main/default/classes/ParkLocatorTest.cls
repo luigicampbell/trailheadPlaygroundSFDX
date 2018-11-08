@@ -10,6 +10,6 @@ private class ParkLocatorTest {
         {
             expected.add('Park' + i);
         }
-        System.assert(expected, result);
+        System.assertEquals(expected, result);
     }
 }
